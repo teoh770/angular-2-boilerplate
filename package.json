@@ -1,6 +1,6 @@
 {
-  "name": "e-learning",
-  "version": "0.0.0",
+  "name": "Angular 2 Boilerplate",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
